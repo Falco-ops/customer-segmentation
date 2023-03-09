@@ -1,4 +1,4 @@
-# customer-segmentation
+# Customer Segmentation
 
 Customer segmentation for e-commerce.
 
